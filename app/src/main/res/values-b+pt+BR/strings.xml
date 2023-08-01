@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="APP_NAME">Hangman</string>
+    <string name="APP_NAME">Words</string>
     <string name="PLAY_BUTTON">JOGAR</string>
-    <string name="SETTINGS_BUTTON">CONFIGURAÇÕES</string>
     <string name="PLAY_AGAIN_BUTTON_DIALOG">Reiniciar</string>
     <string name="QUIT_GAME_BUTTON_DIALOG">Sair</string>
     <string name="GAME_OVER_TEXT_DIALOG">FIM DE JOGO!</string>
@@ -20,4 +19,6 @@
     <string name="DIALOG_TIP_TITLE">Dica</string>
     <string name="DIALOG_TIP_TEXT">Se a palavra não couber na tela, você pode arrastar ela na horizontal ou jogar com o celular deitado!</string>
     <string name="QUIT_HOME_TITLE">Sair do jogo?</string>
+    <string name="PRIVACY_POLICY_TITTLE">Política de privacidade</string>
+
 </resources>
